@@ -41,3 +41,6 @@ subtract(1,2);
 //   return num * 3;
 // });
 // console.log(triple);
+exampleArray = [1,2,3,4];
+triple = exampleArray.map = (num) => console.log (num * 3);
+console.log(triple(2));
